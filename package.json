@@ -11,10 +11,20 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.5",
     "html-webpack-plugin": "^2.30.1",
+    "style-loader": "^0.19.1",
+    "vue": "^2.5.11",
+    "vue-html-loader": "^1.2.4",
     "vue-loader": "^13.5.0",
+    "vue-router": "^3.0.1",
+    "vue-template-compiler": "^2.5.11",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.9.7",
     "webpack-merge": "^4.1.1"
+  },
+  "dependencies": {
+    "vuex": "^3.0.1"
   }
 }
