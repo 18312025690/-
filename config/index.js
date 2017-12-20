@@ -4,6 +4,7 @@ module.exports = {
 		
 	},
 	dev:{
-		port:8088
+		port:8088,
+		publicPath:'/'
 	}
 }
